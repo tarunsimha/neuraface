@@ -1,4 +1,4 @@
-# NeuraFace 🧠📷  
+# NeuraFace   
 **AI-Based Face Recognition Attendance System**
 
 NeuraFace is a desktop application that uses computer vision and deep learning to automatically recognize faces and record attendance in real time. It eliminates manual attendance by identifying individuals through live webcam input and securely storing attendance data.
@@ -37,4 +37,4 @@ NeuraFace is a desktop application that uses computer vision and deep learning t
 
 ```bash
 pip install pyside6 opencv-python deepface numpy
-python neuraface_final.py
+python neuraface.py
